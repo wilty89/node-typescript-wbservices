@@ -1,0 +1,10 @@
+npm i -D typescript ts-node   //
+npm install -g typescript.
+npm i -D @types/node
+tsc --init
+npm i express
+npm i dotenv cors helmet
+npm i -D @types/dotenv @types/cors @types/helmet
+touch .env
+
+npm i @types/pg --save-dev
